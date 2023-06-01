@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey there,  this is Mohd Afjal from India 🇮🇳 .<br>A web developer specialising in Reactjs but not limited to Reactjs 😊. 
-<br> I enjoy creating beautiful and functional websites using Reactjs.
+
 <br>Worked on the backend too using the expressjs framework for creating<br>mid-level projects,  still working on it to become good at it.<br><br>
 
 
